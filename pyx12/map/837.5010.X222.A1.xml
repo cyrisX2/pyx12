@@ -2106,7 +2106,6 @@
                     <name>Subscriber Supplemental Identifier</name>
                     <usage>R</usage>
                     <seq>02</seq>
-                    <regex>[0-9]{9}</regex>
                   </element>
                   <element xid="REF03">
                     <data_ele>352</data_ele>
@@ -8087,7 +8086,6 @@
                         <name>Other Insured Additional Identifier</name>
                         <usage>R</usage>
                         <seq>02</seq>
-                        <regex>[0-9]{9}</regex>
                       </element>
                       <element xid="REF03">
                         <data_ele>352</data_ele>
@@ -19980,7 +19978,6 @@
                           <name>Other Insured Additional Identifier</name>
                           <usage>R</usage>
                           <seq>02</seq>
-                          <regex>[0-9]{9}</regex>
                         </element>
                         <element xid="REF03">
                           <data_ele>352</data_ele>
